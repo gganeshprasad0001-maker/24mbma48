@@ -1,0 +1,76 @@
+customer_id,customer_name,city,hotel_id,hotel_name,hotel_location,booking_id,stay_duration,amount_spent,status,rating
+C001,Neha,Pune,H106,Conrad,Pune,B001,5,35140,cancelled,94
+C002,John,Hyderabad,H101,Taj Krishna,Hyderabad,B002,7,42158,cancelled,91
+C003,Vikas,Pune,H106,Conrad,Pune,B003,1,36451,booked,60
+C004,Sneha,Pune,H106,Hyatt,Pune,B004,8,18071,booked,70
+C005,Sneha,Pune,H106,Marriott,Pune,B005,10,44743,booked,96
+C006,Sara,Chennai,H104,ITC Grand Chola,Chennai,B006,10,43222,cancelled,79
+C007,Ramesh,Delhi,H103,Leela Palace,Delhi,B007,7,44116,booked,51
+C008,Aditi,Hyderabad,H101,Novotel,Hyderabad,B008,6,26642,booked,94
+C009,Rahul,Chennai,H104,Taj Coromandel,Chennai,B009,6,45354,booked,64
+C010,John,Hyderabad,H101,Novotel,Hyderabad,B010,8,14850,cancelled,59
+C011,Anjali,Hyderabad,H101,Novotel,Hyderabad,B011,2,49977,cancelled,58
+C012,Kavya,Bangalore,H102,Taj West End,Bangalore,B012,6,18878,cancelled,59
+C013,Neha,Chennai,H104,ITC Grand Chola,Chennai,B013,1,15240,booked,98
+C014,Sneha,Bangalore,H102,ITC Gardenia,Bangalore,B014,2,48622,cancelled,56
+C015,Mohit,Mumbai,H105,Taj Mahal Palace,Mumbai,B015,2,27004,booked,59
+C016,Divya,Pune,H106,Conrad,Pune,B016,9,9594,booked,56
+C017,Divya,Pune,H106,Conrad,Pune,B017,10,18108,cancelled,82
+C018,Anjali,Chennai,H104,Hyatt Regency,Chennai,B018,8,43128,cancelled,57
+C019,Meena,Bangalore,H102,Taj West End,Bangalore,B019,3,31185,cancelled,69
+C020,Lakshmi,Hyderabad,H101,Taj Krishna,Hyderabad,B020,1,16617,cancelled,83
+C021,Kavya,Hyderabad,H101,ITC Kakatiya,Hyderabad,B021,8,17367,cancelled,61
+C022,Rahul,Pune,H106,Marriott,Pune,B022,8,49452,cancelled,51
+C023,Vijay,Hyderabad,H101,ITC Kakatiya,Hyderabad,B023,4,48939,cancelled,89
+C024,Arun,Delhi,H103,Hyatt Regency,Delhi,B024,6,16779,booked,71
+C025,John,Bangalore,H102,ITC Gardenia,Bangalore,B025,10,6604,cancelled,66
+C026,Rahul,Mumbai,H105,JW Marriott,Mumbai,B026,4,46048,cancelled,65
+C027,Mohit,Pune,H106,Hyatt,Pune,B027,7,18928,cancelled,81
+C028,Mohit,Chennai,H104,Taj Coromandel,Chennai,B028,7,41980,booked,76
+C029,Arun,Hyderabad,H101,ITC Kakatiya,Hyderabad,B029,7,29111,booked,66
+C030,Meena,Chennai,H104,Hyatt Regency,Chennai,B030,10,44262,booked,89
+C031,Rahul,Hyderabad,H101,ITC Kakatiya,Hyderabad,B031,9,42642,cancelled,50
+C032,Anjali,Pune,H106,Conrad,Pune,B032,8,5207,cancelled,91
+C033,Vikas,Hyderabad,H101,Novotel,Hyderabad,B033,8,42053,booked,89
+C034,Sneha,Hyderabad,H101,Taj Krishna,Hyderabad,B034,10,38836,cancelled,91
+C035,Divya,Bangalore,H102,ITC Gardenia,Bangalore,B035,2,4961,cancelled,93
+C036,Lakshmi,Mumbai,H105,The Oberoi,Mumbai,B036,8,38408,booked,56
+C037,Anjali,Mumbai,H105,JW Marriott,Mumbai,B037,10,35912,cancelled,75
+C038,Ramesh,Bangalore,H102,Taj West End,Bangalore,B038,1,35937,booked,91
+C039,Divya,Bangalore,H102,Taj West End,Bangalore,B039,8,45404,booked,95
+C040,Sneha,Bangalore,H102,ITC Gardenia,Bangalore,B040,10,20713,booked,74
+C041,Divya,Delhi,H103,Leela Palace,Delhi,B041,7,30019,cancelled,96
+C042,Priya,Delhi,H103,Leela Palace,Delhi,B042,3,41181,booked,84
+C043,Vijay,Hyderabad,H101,Taj Krishna,Hyderabad,B043,10,4872,booked,94
+C044,Meena,Chennai,H104,ITC Grand Chola,Chennai,B044,3,29400,cancelled,77
+C045,Aditi,Bangalore,H102,ITC Gardenia,Bangalore,B045,8,23299,booked,74
+C046,Kavya,Mumbai,H105,Taj Mahal Palace,Mumbai,B046,10,19525,booked,55
+C047,John,Delhi,H103,Leela Palace,Delhi,B047,6,39452,cancelled,66
+C048,Daniel,Chennai,H104,ITC Grand Chola,Chennai,B048,4,32524,booked,83
+C049,Vikas,Chennai,H104,ITC Grand Chola,Chennai,B049,6,43827,booked,55
+C050,John,Hyderabad,H101,Novotel,Hyderabad,B050,5,48160,cancelled,90
+C051,Sara,Delhi,H103,Hyatt Regency,Delhi,B051,7,39807,booked,83
+C052,Rahul,Hyderabad,H101,ITC Kakatiya,Hyderabad,B052,1,16896,cancelled,67
+C053,Mohit,Mumbai,H105,Taj Mahal Palace,Mumbai,B053,5,40316,booked,52
+C054,Mohit,Chennai,H104,ITC Grand Chola,Chennai,B054,9,17261,booked,67
+C055,Rahul,Delhi,H103,The Oberoi,Delhi,B055,6,3751,booked,58
+C056,Divya,Mumbai,H105,Taj Mahal Palace,Mumbai,B056,4,32867,cancelled,75
+C057,Anjali,Bangalore,H102,The Leela Palace,Bangalore,B057,5,25125,cancelled,100
+C058,Kavya,Pune,H106,Marriott,Pune,B058,4,10610,cancelled,58
+C059,Vikas,Delhi,H103,Hyatt Regency,Delhi,B059,6,14906,booked,70
+C060,Kavya,Bangalore,H102,Taj West End,Bangalore,B060,7,20707,booked,63
+C061,Lakshmi,Hyderabad,H101,Novotel,Hyderabad,B061,1,40843,booked,93
+C062,Vikas,Delhi,H103,Leela Palace,Delhi,B062,3,11152,cancelled,95
+C063,Kavya,Chennai,H104,Hyatt Regency,Chennai,B063,3,15056,booked,72
+C064,Vikas,Mumbai,H105,JW Marriott,Mumbai,B064,9,19283,cancelled,71
+C065,Anjali,Mumbai,H105,Taj Mahal Palace,Mumbai,B065,10,19819,cancelled,77
+C066,Divya,Pune,H106,Hyatt,Pune,B066,7,36530,cancelled,78
+C067,Mohit,Hyderabad,H101,ITC Kakatiya,Hyderabad,B067,7,13073,booked,74
+C068,Lakshmi,Hyderabad,H101,Novotel,Hyderabad,B068,7,37474,booked,87
+C069,Sneha,Hyderabad,H101,Taj Krishna,Hyderabad,B069,10,12635,booked,82
+C070,Meena,Hyderabad,H101,Novotel,Hyderabad,B070,2,2716,cancelled,63
+C071,Kavya,Delhi,H103,The Oberoi,Delhi,B071,4,13774,booked,93
+C072,Divya,Delhi,H103,Leela Palace,Delhi,B072,10,38936,cancelled,56
+C073,Daniel,Hyderabad,H101,Taj Krishna,Hyderabad,B073,9,11075,booked,75
+C074,John,Mumbai,H105,The Oberoi,Mumbai,B074,8,37971,cancelled,54
+C075,Neha,Pune,H106,Marriott,Pune,B075,9,46701,cancelled,50
